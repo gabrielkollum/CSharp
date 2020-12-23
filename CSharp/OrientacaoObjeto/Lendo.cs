@@ -21,7 +21,6 @@ namespace CSharp.OrientacaoObjeto {
                     sw.WriteLine("Realmente");
                     sw.WriteLine("Deu");
                     sw.WriteLine("certo");
-                    sw.WriteLine("!!!!!!!!");
                 }
             }
         }
